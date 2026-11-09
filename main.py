@@ -6,9 +6,7 @@ def main():
     # Se o arquivo estiver dentro da pasta docs:
     arquivo_csv = 'docs/Pratica_DSM6_Exames_Laboratoriais.csv'
     
-    # ==========================================
     # 1. LEITURA E PREPARAÇÃO OBRIGATÓRIA
-    # ==========================================
     with open(arquivo_csv, mode='r', encoding='utf-8-sig') as f:
         reader = csv.DictReader(f, delimiter=';')
         linhas_brutas = list(reader)
@@ -42,9 +40,8 @@ def main():
     print(" RELATÓRIOS OPERACIONAIS - LABORATÓRIO VIDA & DADOS")
     print("=" * 60)
     
-    # ==========================================
+
     # BLOCO A – Relatórios de qualidade e produção
-    # ==========================================
     print(f"\n[R01] Quantidade total de linhas originalmente importadas: {r01_total_linhas}")
     print(f"[R02] Registros duplicados descartados: {r02_duplicados} | Exames únicos finais: {r02_unicos}")
     print(f"[R03] Valores ausentes -> Tempo de processamento: {aus_tempo} | Valor financeiro (R$): {aus_valor} | Turno: {aus_turno}")
@@ -93,9 +90,7 @@ def main():
         perc = (d['recoleta'] / d['total']) * 100 if d['total'] > 0 else 0
         print(f"  - {unidade}: {d['recoleta']} de {d['total']} ({perc:.2f}%)")
 
-    # ==========================================
     # BLOCO B – Relatórios analíticos e classificação
-    # ==========================================
     print("\n" + "-" * 60)
     
     # R09. Valor financeiro total e valor médio por tipo de exame
