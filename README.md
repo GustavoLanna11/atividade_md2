@@ -14,7 +14,7 @@ Certifique-se de ter o **Python 3** instalado em sua máquina.
 
 No seu terminal, na pasta do projeto, execute o script:
 
-    ```python main.py```
+    python main.py
 
 ## 🛠️ Tecnologias Utilizadas
 - Python 3 (Linguagem base)
