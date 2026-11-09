@@ -1,0 +1,253 @@
+﻿id_exame;data_coleta;unidade;tipo_exame;prioridade;tempo_processamento_h;prazo_h;atraso;recoleta;valor_rs;turno;amostra
+EX0187;06/10/2026;pariquera-açu;Glicemia;Rotina;9;24;Nao;Nao;15.00;Noite;Sangue
+EX0196;27/10/2026;registro;Colesterol;Rotina;19;24;Nao;Nao;23.00;Manha;Sangue
+EX0018;18/10/2026;JACUPIRANGA;TSH;Rotina;24;24;Nao;Nao;38.00;Noite;Sangue
+EX0079;12/10/2026;Registro;Colesterol;Rotina;;24;Nao;Nao;23.00;Tarde;Sangue
+EX0053;03/10/2026;JACUPIRANGA;TSH;Rotina;23;24;Nao;Nao;38.00;Tarde;Sangue
+EX0211;23/10/2026; Iguape ;Colesterol;Rotina;30;24;Sim;Nao;23.00;Manha;Sangue
+EX0057;15/10/2026;iguape;Triglicerideos;Rotina;19;24;Nao;Nao;24.00;Tarde;Sangue
+EX0110;03/10/2026;jacupiranga;Colesterol;Rotina;30;24;Sim;Sim;23.00;Manha;Sangue
+EX0098;05/10/2026;Registro;Urina tipo I;Rotina;8;24;Nao;Nao;19.00;Tarde;Urina
+EX0146;09/10/2026;Pariquera-Açu;Colesterol;Rotina;26;24;Sim;Nao;23.00;Manha;Sangue
+EX0007;01/10/2026;JACUPIRANGA;TSH;Rotina;1;24;Nao;Nao;38.00;Noite;Sangue
+EX0051;20/10/2026;Registro;TSH;Urgente;6;4;Sim;Nao;50.00;Manha;Sangue
+EX0022;09/10/2026; Registro ;Colesterol;Rotina;26;24;Sim;Nao;23.00;Tarde;Sangue
+EX0216;21/10/2026;Registro;Urina tipo I;Urgente;8;4;Sim;Nao;31.00;Manha;Urina
+EX0029;05/10/2026;JACUPIRANGA;Glicemia;Rotina;32;24;Sim;Sim;15.00;Manha;Sangue
+EX0054;08/10/2026; Iguape ;Urina tipo I;Urgente;6;4;Sim;Nao;31.00;Tarde;Urina
+EX0109;02/10/2026;Pariquera-Açu;Triglicerideos;Urgente;4;4;Nao;Nao;36.00;Manha;Sangue
+EX0118;06/10/2026;pariquera-açu;Glicemia;Urgente;5;4;Sim;Nao;27.00;Tarde;Sangue
+EX0101;28/10/2026;IGUAPE;Hemograma;Urgente;2;4;Nao;Nao;40.00;Manha;Sangue
+EX0189;07/10/2026;Registro;Colesterol;Rotina;18;24;Nao;Nao;23.00;Manha;Sangue
+EX0158;11/10/2026;Iguape;TSH;Rotina;8;24;Nao;Nao;38.00;Noite;Sangue
+EX0180;06/10/2026;JACUPIRANGA;Colesterol;Rotina;16;24;Nao;Nao;23.00;Noite;Sangue
+EX0165;13/10/2026; Registro ;TSH;Rotina;28;24;Sim;Nao;38.00;Noite;Sangue
+EX0176;29/10/2026; Registro ;Triglicerideos;Rotina;22;24;Nao;Nao;24.00;Manha;Sangue
+EX0153;18/10/2026; Pariquera-Açu ;Colesterol;Rotina;12;24;Nao;Nao;23.00;Noite;Sangue
+EX0144;21/10/2026;Pariquera-Açu;Triglicerideos;Rotina;13;24;Nao;Nao;24.00;Manha;Sangue
+EX0013;01/10/2026;Iguape;Hemograma;Rotina;5;24;Nao;Nao;28.00;Noite;Sangue
+EX0206;11/10/2026;Jacupiranga;Urina tipo I;Urgente;11;4;Sim;Nao;31.00;Noite;Urina
+EX0133;04/10/2026;pariquera-açu;Hemograma;Rotina;16;24;Nao;Nao;28.00;Tarde;Sangue
+EX0122;18/10/2026;iguape;Hemograma;Rotina;12;24;Nao;Sim;28.00;Manha;Sangue
+EX0066;20/10/2026;jacupiranga;Triglicerideos;Urgente;1;4;Nao;Nao;36.00;Noite;Sangue
+EX0164;21/10/2026;iguape;Glicemia;Rotina;22;24;Nao;Sim;15.00;Noite;Sangue
+EX0219;27/10/2026;pariquera-açu;Triglicerideos;Urgente;4;4;Nao;Sim;36.00;Noite;Sangue
+EX0207;08/10/2026; Jacupiranga ;Glicemia;Rotina;24;24;Nao;Nao;15.00;Tarde;Sangue
+EX0085;06/10/2026;IGUAPE;Hemograma;Rotina;19;24;Nao;Nao;28.00;Noite;Sangue
+EX0203;17/10/2026;PARIQUERA-AÇU;Colesterol;Rotina;9;24;Nao;Nao;23.00;Noite;Sangue
+EX0015;28/10/2026; Iguape ;TSH;Rotina;8;24;Nao;Nao;38.00;Tarde;Sangue
+EX0218;30/10/2026; Pariquera-Açu ;Glicemia;Urgente;6;4;Sim;Sim;27.00;Tarde;Sangue
+EX0019;17/10/2026;IGUAPE;Colesterol;Rotina;14;24;Nao;Sim;23.00;Noite;Sangue
+EX0209;05/10/2026;JACUPIRANGA;TSH;Rotina;27;24;Sim;Nao;38.00;Tarde;Sangue
+EX0035;05/10/2026; Registro ;Hemograma;Rotina;14;24;Nao;Nao;28.00;Tarde;Sangue
+EX0025;27/10/2026;registro;Glicemia;Rotina;6;24;Nao;Nao;15.00;Tarde;Sangue
+EX0210;05/10/2026;JACUPIRANGA;Hemograma;Rotina;12;24;Nao;Nao;28.00;Tarde;Sangue
+EX0181;07/10/2026;iguape;Hemograma;Rotina;9;24;Nao;Sim;28.00;Noite;Sangue
+EX0180;06/10/2026;JACUPIRANGA;Colesterol;Rotina;16;24;Nao;Nao;23.00;Noite;Sangue
+EX0063;17/10/2026;pariquera-açu;Triglicerideos;Rotina;1;24;Nao;Nao;24.00;Tarde;Sangue
+EX0076;22/10/2026;Pariquera-Açu;Glicemia;Rotina;27;24;Sim;Nao;15.00;Manha;Sangue
+EX0148;15/10/2026;JACUPIRANGA;Colesterol;Rotina;11;24;Nao;Nao;23.00;Tarde;Sangue
+EX0088;23/10/2026; Jacupiranga ;Colesterol;Rotina;1;24;Nao;Nao;23.00;Manha;Sangue
+EX0107;16/10/2026;IGUAPE;TSH;Rotina;15;24;Nao;Nao;38.00;Manha;Sangue
+EX0003;10/10/2026;Pariquera-Açu;Triglicerideos;Rotina;36;24;Sim;Nao;24.00;Tarde;Sangue
+EX0103;15/10/2026; Iguape ;Colesterol;Rotina;21;24;Nao;Nao;23.00;Noite;Sangue
+EX0104;21/10/2026;JACUPIRANGA;Urina tipo I;Urgente;2;4;Nao;Sim;31.00;Noite;Urina
+EX0059;04/10/2026;REGISTRO;Triglicerideos;Rotina;14;24;Nao;Nao;24.00;Noite;Sangue
+EX0233;18/10/2026;Jacupiranga;Urina tipo I;Urgente;4;4;Nao;Nao;31.00;Noite;Urina
+EX0132;09/10/2026;pariquera-açu;Colesterol;Rotina;33;24;Sim;Sim;23.00;Manha;Sangue
+EX0135;12/10/2026; Pariquera-Açu ;Urina tipo I;Urgente;2;4;Nao;Nao;31.00;Manha;Urina
+EX0048;21/10/2026; Registro ;TSH;Rotina;35;24;Sim;Nao;38.00;Noite;Sangue
+EX0030;29/10/2026;Pariquera-Açu;Hemograma;Rotina;16;24;Nao;Nao;28.00;Tarde;Sangue
+EX0214;21/10/2026;REGISTRO;Hemograma;Urgente;2;4;Nao;Nao;40.00;Manha;Sangue
+EX0173;07/10/2026; Iguape ;Colesterol;Rotina;4;24;Nao;Nao;23.00;Manha;Sangue
+EX0154;29/10/2026;Pariquera-Açu;TSH;Rotina;31;24;Sim;Nao;38.00;Noite;Sangue
+EX0097;08/10/2026; Iguape ;Hemograma;Rotina;1;24;Nao;Nao;28.00;Noite;Sangue
+EX0234;21/10/2026; Iguape ;Colesterol;Rotina;15;24;Nao;Nao;23.00;Noite;Sangue
+EX0074;13/10/2026;registro;TSH;Urgente;11;4;Sim;Nao;50.00;Tarde;Sangue
+EX0009;26/10/2026; Jacupiranga ;Glicemia;Rotina;26;24;Sim;Nao;15.00;Tarde;Sangue
+EX0227;27/10/2026;Jacupiranga;Colesterol;Rotina;21;24;Nao;Nao;23.00;Manha;Sangue
+EX0161;01/10/2026;Jacupiranga;Triglicerideos;Rotina;24;24;Nao;Nao;24.00;Tarde;Sangue
+EX0124;10/10/2026;Iguape;Hemograma;Rotina;9;24;Nao;Nao;28.00;Tarde;Sangue
+EX0099;26/10/2026; Iguape ;Triglicerideos;Rotina;34;24;Sim;Nao;24.00;Noite;Sangue
+EX0120;21/10/2026;REGISTRO;Triglicerideos;Urgente;6;4;Sim;Nao;36.00;Tarde;Sangue
+EX0010;24/10/2026;REGISTRO;Urina tipo I;Urgente;3;4;Nao;Nao;31.00;Manha;Urina
+EX0041;17/10/2026; Pariquera-Açu ;TSH;Urgente;11;4;Sim;Nao;50.00;Manha;Sangue
+EX0190;11/10/2026;jacupiranga;Colesterol;Urgente;8;4;Sim;Nao;35.00;Tarde;Sangue
+EX0128;15/10/2026;JACUPIRANGA;Hemograma;Rotina;25;24;Sim;Nao;28.00;Noite;Sangue
+EX0171;26/10/2026;JACUPIRANGA;Colesterol;Urgente;4;4;Nao;Nao;35.00;Tarde;Sangue
+EX0163;17/10/2026;PARIQUERA-AÇU;Triglicerideos;Rotina;21;24;Nao;Nao;;Manha;Sangue
+EX0151;11/10/2026;jacupiranga;Urina tipo I;Rotina;16;24;Nao;Nao;19.00;Tarde;Urina
+EX0223;27/10/2026;Jacupiranga;Triglicerideos;Rotina;7;24;Nao;Nao;24.00;Noite;Sangue
+EX0213;15/10/2026; Jacupiranga ;Glicemia;Rotina;23;24;Nao;Nao;15.00;Tarde;Sangue
+EX0115;01/10/2026;PARIQUERA-AÇU;Triglicerideos;Rotina;19;24;Nao;Nao;24.00;Manha;Sangue
+EX0095;06/10/2026; Pariquera-Açu ;Urina tipo I;Rotina;20;24;Nao;Nao;19.00;Manha;Urina
+EX0024;03/10/2026;IGUAPE;TSH;Rotina;35;24;Sim;Nao;38.00;Tarde;Sangue
+EX0224;28/10/2026;jacupiranga;Colesterol;Rotina;23;24;Nao;Nao;23.00;Tarde;Sangue
+EX0002;22/10/2026; Registro ;Glicemia;Rotina;16;24;Nao;Nao;15.00;Manha;Sangue
+EX0184;29/10/2026;Registro;Glicemia;Rotina;21;24;Nao;Nao;15.00;Tarde;Sangue
+EX0156;29/10/2026;registro;Urina tipo I;Rotina;12;24;Nao;Nao;19.00;Tarde;Urina
+EX0185;20/10/2026;jacupiranga;Triglicerideos;Rotina;37;24;Sim;Nao;24.00;Tarde;Sangue
+EX0113;26/10/2026;REGISTRO;TSH;Rotina;23;24;Nao;Sim;38.00;Noite;Sangue
+EX0108;27/10/2026;iguape;TSH;Rotina;24;24;Nao;Nao;38.00;Manha;Sangue
+EX0040;13/10/2026;IGUAPE;Glicemia;Rotina;21;24;Nao;Nao;15.00;Tarde;Sangue
+EX0231;28/10/2026; Iguape ;TSH;Urgente;6;4;Sim;Nao;50.00;Manha;Sangue
+EX0092;02/10/2026; Registro ;Glicemia;Rotina;25;24;Sim;Nao;15.00;Tarde;Sangue
+EX0194;29/10/2026;PARIQUERA-AÇU;Hemograma;Urgente;3;4;Nao;Sim;40.00;Noite;Sangue
+EX0111;12/10/2026;IGUAPE;Urina tipo I;Rotina;32;24;Sim;Nao;19.00;Tarde;Urina
+EX0162;10/10/2026; Registro ;Urina tipo I;Urgente;3;4;Nao;Nao;31.00;Tarde;Urina
+EX0020;29/10/2026;Pariquera-Açu;TSH;Urgente;14;4;Sim;Nao;50.00;Manha;Sangue
+EX0027;21/10/2026;IGUAPE;TSH;Rotina;25;24;Sim;Nao;38.00;Noite;Sangue
+EX0208;16/10/2026;Pariquera-Açu;Hemograma;Rotina;13;24;Nao;Nao;28.00;Noite;Sangue
+EX0170;13/10/2026; Registro ;Triglicerideos;Rotina;9;24;Nao;Sim;24.00;Manha;Sangue
+EX0052;16/10/2026;pariquera-açu;Triglicerideos;Rotina;22;24;Nao;Nao;24.00;Tarde;Sangue
+EX0004;06/10/2026;jacupiranga;Triglicerideos;Rotina;14;24;Nao;Nao;24.00;Tarde;Sangue
+EX0026;20/10/2026; Iguape ;Colesterol;Rotina;24;24;Nao;Nao;23.00;Manha;Sangue
+EX0234;21/10/2026; Iguape ;Colesterol;Rotina;15;24;Nao;Nao;23.00;Noite;Sangue
+EX0127;23/10/2026; Jacupiranga ;Triglicerideos;Rotina;10;24;Nao;Sim;24.00;Noite;Sangue
+EX0152;23/10/2026; Registro ;Triglicerideos;Rotina;10;24;Nao;Nao;24.00;Manha;Sangue
+EX0239;16/10/2026;pariquera-açu;Triglicerideos;Urgente;;4;Nao;Nao;36.00;Tarde;Sangue
+EX0050;01/10/2026;JACUPIRANGA;Triglicerideos;Urgente;6;4;Sim;Nao;36.00;Manha;Sangue
+EX0192;26/10/2026;PARIQUERA-AÇU;Urina tipo I;Urgente;4;4;Nao;Nao;31.00;Manha;Urina
+EX0232;12/10/2026;JACUPIRANGA;Urina tipo I;Rotina;1;24;Nao;Nao;19.00;Manha;Urina
+EX0126;02/10/2026;IGUAPE;Glicemia;Rotina;14;24;Nao;Nao;15.00;Tarde;Sangue
+EX0157;03/10/2026;Pariquera-Açu;Glicemia;Urgente;8;4;Sim;Nao;27.00;Tarde;Sangue
+EX0058;22/10/2026;Pariquera-Açu;Colesterol;Urgente;1;4;Nao;Nao;35.00;Manha;Sangue
+EX0100;06/10/2026;Iguape;Urina tipo I;Urgente;3;4;Nao;Nao;31.00;Tarde;Urina
+EX0070;06/10/2026;iguape;Hemograma;Rotina;1;24;Nao;Nao;28.00;Tarde;Sangue
+EX0145;12/10/2026;JACUPIRANGA;TSH;Rotina;25;24;Sim;Nao;38.00;Manha;Sangue
+EX0065;30/10/2026;JACUPIRANGA;Urina tipo I;Rotina;26;24;Sim;Nao;19.00;Tarde;Urina
+EX0084;09/10/2026;REGISTRO;Colesterol;Urgente;5;4;Sim;Nao;35.00;Manha;Sangue
+EX0033;07/10/2026;Pariquera-Açu;Hemograma;Rotina;13;24;Nao;Nao;28.00;Noite;Sangue
+EX0067;08/10/2026;REGISTRO;Hemograma;Urgente;1;4;Nao;Nao;40.00;Manha;Sangue
+EX0023;20/10/2026;registro;Triglicerideos;Rotina;15;24;Nao;Nao;24.00;Manha;Sangue
+EX0069;19/10/2026;iguape;Hemograma;Rotina;16;24;Nao;Nao;28.00;Noite;Sangue
+EX0072;01/10/2026;jacupiranga;Glicemia;Rotina;8;24;Nao;Nao;15.00;Manha;Sangue
+EX0230;23/10/2026;JACUPIRANGA;Triglicerideos;Rotina;5;24;Nao;Nao;24.00;Manha;Sangue
+EX0226;05/10/2026;Jacupiranga;Hemograma;Rotina;22;24;Nao;Sim;28.00;Tarde;Sangue
+EX0103;15/10/2026; Iguape ;Colesterol;Rotina;21;24;Nao;Nao;23.00;Noite;Sangue
+EX0075;07/10/2026;Registro;Urina tipo I;Urgente;9;4;Sim;Nao;31.00;Tarde;Urina
+EX0061;19/10/2026;REGISTRO;TSH;Urgente;10;4;Sim;Nao;50.00;Tarde;Sangue
+EX0056;12/10/2026;Jacupiranga;Triglicerideos;Rotina;22;24;Nao;Nao;24.00;Manha;Sangue
+EX0139;08/10/2026; Pariquera-Açu ;Triglicerideos;Rotina;11;24;Nao;Nao;24.00;Noite;Sangue
+EX0034;18/10/2026;JACUPIRANGA;Triglicerideos;Urgente;;4;Sim;Nao;36.00;Noite;Sangue
+EX0204;24/10/2026;REGISTRO;Glicemia;Urgente;5;4;Sim;Nao;27.00;;Sangue
+EX0012;27/10/2026; Pariquera-Açu ;Hemograma;Rotina;28;24;Sim;Nao;28.00;Manha;Sangue
+EX0082;23/10/2026;IGUAPE;Triglicerideos;Rotina;28;24;Sim;Sim;24.00;Manha;Sangue
+EX0094;03/10/2026; Jacupiranga ;TSH;Rotina;30;24;Sim;Sim;38.00;Manha;Sangue
+EX0159;23/10/2026; Registro ;Triglicerideos;Rotina;14;24;Nao;Nao;24.00;Noite;Sangue
+EX0205;15/10/2026;jacupiranga;TSH;Urgente;13;4;Sim;Nao;50.00;Tarde;Sangue
+EX0114;02/10/2026;pariquera-açu;Triglicerideos;Urgente;3;4;Nao;Nao;36.00;Noite;Sangue
+EX0160;18/10/2026;Registro;Triglicerideos;Rotina;28;24;Sim;Nao;24.00;Manha;Sangue
+EX0081;04/10/2026;REGISTRO;Colesterol;Rotina;12;24;Nao;Nao;23.00;Noite;Sangue
+EX0049;07/10/2026; Pariquera-Açu ;Triglicerideos;Rotina;30;24;Sim;Nao;24.00;Noite;Sangue
+EX0157;03/10/2026;Pariquera-Açu;Glicemia;Urgente;8;4;Sim;Nao;27.00;Tarde;Sangue
+EX0221;03/10/2026;IGUAPE;Triglicerideos;Rotina;33;24;Sim;Nao;24.00;Tarde;Sangue
+EX0125;17/10/2026;IGUAPE;Hemograma;Rotina;1;24;Nao;Nao;28.00;Tarde;Sangue
+EX0172;26/10/2026;JACUPIRANGA;Glicemia;Rotina;15;24;Nao;Nao;15.00;Noite;Sangue
+EX0038;07/10/2026;REGISTRO;Urina tipo I;Rotina;21;24;Nao;Nao;19.00;Manha;Urina
+EX0028;06/10/2026;Iguape;Hemograma;Rotina;25;24;Sim;Nao;28.00;Manha;Sangue
+EX0167;02/10/2026;REGISTRO;Triglicerideos;Rotina;15;24;Nao;Nao;24.00;Manha;Sangue
+EX0150;23/10/2026;iguape;Urina tipo I;Urgente;6;4;Sim;Nao;31.00;Tarde;Urina
+EX0143;21/10/2026;pariquera-açu;Hemograma;Urgente;6;4;Sim;Nao;40.00;Tarde;Sangue
+EX0089;29/10/2026; Iguape ;Hemograma;Rotina;13;24;Nao;Nao;28.00;Tarde;Sangue
+EX0046;28/10/2026;Jacupiranga;Urina tipo I;Urgente;5;4;Sim;Nao;31.00;Manha;Urina
+EX0236;18/10/2026;iguape;Colesterol;Rotina;15;24;Nao;Nao;23.00;Manha;Sangue
+EX0141;30/10/2026;IGUAPE;TSH;Urgente;6;4;Sim;Nao;50.00;Noite;Sangue
+EX0198;25/10/2026; Jacupiranga ;Triglicerideos;Rotina;18;24;Nao;Nao;24.00;Tarde;Sangue
+EX0191;20/10/2026;registro;Colesterol;Urgente;4;4;Nao;Nao;35.00;Manha;Sangue
+EX0166;17/10/2026;iguape;TSH;Rotina;21;24;Nao;Nao;38.00;Manha;Sangue
+EX0121;06/10/2026;PARIQUERA-AÇU;Hemograma;Urgente;6;4;Sim;Nao;;Manha;Sangue
+EX0183;12/10/2026; Registro ;Colesterol;Rotina;30;24;Sim;Nao;23.00;Manha;Sangue
+EX0106;13/10/2026;PARIQUERA-AÇU;TSH;Rotina;19;24;Nao;Nao;38.00;Noite;Sangue
+EX0212;20/10/2026;Registro;Colesterol;Rotina;21;24;Nao;Sim;23.00;Tarde;Sangue
+EX0117;11/10/2026; Pariquera-Açu ;Glicemia;Rotina;31;24;Sim;Nao;15.00;Tarde;Sangue
+EX0175;29/10/2026;Pariquera-Açu;Urina tipo I;Rotina;9;24;Nao;Nao;19.00;Noite;Urina
+EX0012;27/10/2026; Pariquera-Açu ;Hemograma;Rotina;28;24;Sim;Nao;28.00;Manha;Sangue
+EX0186;08/10/2026;iguape;Colesterol;Rotina;7;24;Nao;Sim;23.00;Tarde;Sangue
+EX0047;24/10/2026;jacupiranga;Colesterol;Rotina;30;24;Sim;Nao;23.00;Manha;Sangue
+EX0005;26/10/2026;pariquera-açu;Triglicerideos;Rotina;4;24;Nao;Nao;24.00;Noite;Sangue
+EX0119;10/10/2026; Iguape ;Colesterol;Rotina;11;24;Nao;Nao;23.00;Tarde;Sangue
+EX0083;14/10/2026; Jacupiranga ;Urina tipo I;Rotina;32;24;Sim;Nao;19.00;Noite;Urina
+EX0202;07/10/2026; Iguape ;TSH;Rotina;25;24;Sim;Sim;38.00;Tarde;Sangue
+EX0048;21/10/2026; Registro ;TSH;Rotina;35;24;Sim;Nao;38.00;Noite;Sangue
+EX0091;24/10/2026;IGUAPE;Glicemia;Urgente;7;4;Sim;Nao;27.00;Manha;Sangue
+EX0090;25/10/2026;JACUPIRANGA;TSH;Rotina;27;24;Sim;Sim;38.00;Noite;Sangue
+EX0021;06/10/2026;PARIQUERA-AÇU;TSH;Rotina;16;24;Nao;Nao;38.00;Tarde;Sangue
+EX0177;04/10/2026;PARIQUERA-AÇU;Urina tipo I;Rotina;36;24;Sim;Nao;19.00;Tarde;Urina
+EX0093;03/10/2026;Pariquera-Açu;TSH;Urgente;9;4;Sim;Nao;50.00;Manha;Sangue
+EX0055;28/10/2026;REGISTRO;Colesterol;Rotina;1;24;Nao;Nao;23.00;Noite;Sangue
+EX0116;30/10/2026;Registro;Urina tipo I;Rotina;15;24;Nao;Nao;19.00;Noite;Urina
+EX0006;15/10/2026;PARIQUERA-AÇU;Triglicerideos;Rotina;;24;Nao;Nao;24.00;Manha;Sangue
+EX0073;18/10/2026;JACUPIRANGA;Urina tipo I;Rotina;21;24;Nao;Sim;19.00;Manha;Urina
+EX0135;12/10/2026; Pariquera-Açu ;Urina tipo I;Urgente;2;4;Nao;Nao;31.00;Manha;Urina
+EX0080;13/10/2026;Iguape;Triglicerideos;Rotina;33;24;Sim;Nao;24.00;Manha;Sangue
+EX0064;02/10/2026; Pariquera-Açu ;Hemograma;Urgente;3;4;Nao;Nao;40.00;Tarde;Sangue
+EX0129;12/10/2026;jacupiranga;Urina tipo I;Rotina;9;24;Nao;Nao;19.00;Manha;Urina
+EX0136;04/10/2026;PARIQUERA-AÇU;Urina tipo I;Urgente;9;4;Sim;Sim;31.00;Tarde;Urina
+EX0215;08/10/2026;Jacupiranga;TSH;Urgente;11;4;Sim;Nao;50.00;Noite;Sangue
+EX0200;23/10/2026;jacupiranga;Colesterol;Rotina;18;24;Nao;Nao;23.00;Noite;Sangue
+EX0217;03/10/2026;REGISTRO;TSH;Rotina;27;24;Sim;Sim;38.00;Noite;Sangue
+EX0178;17/10/2026;jacupiranga;Colesterol;Urgente;1;4;Nao;Nao;35.00;Noite;Sangue
+EX0131;11/10/2026;IGUAPE;Urina tipo I;Rotina;23;24;Nao;Nao;19.00;Tarde;Urina
+EX0096;22/10/2026;iguape;Urina tipo I;Rotina;17;24;Nao;Nao;19.00;Tarde;Urina
+EX0078;19/10/2026; Iguape ;Triglicerideos;Rotina;16;24;Nao;Nao;24.00;Noite;Sangue
+EX0142;09/10/2026;Iguape;Triglicerideos;Rotina;25;24;Sim;Nao;24.00;Tarde;Sangue
+EX0102;07/10/2026;JACUPIRANGA;TSH;Rotina;21;24;Nao;Sim;38.00;Manha;Sangue
+EX0138;15/10/2026;IGUAPE;Colesterol;Rotina;31;24;Sim;Sim;23.00;Tarde;Sangue
+EX0043;27/10/2026;PARIQUERA-AÇU;Glicemia;Rotina;20;24;Nao;Nao;15.00;Manha;Sangue
+EX0077;16/10/2026; Jacupiranga ;Triglicerideos;Urgente;1;4;Nao;Nao;36.00;Tarde;Sangue
+EX0060;29/10/2026;jacupiranga;Triglicerideos;Urgente;7;4;Sim;Nao;36.00;Noite;Sangue
+EX0197;28/10/2026; Pariquera-Açu ;Urina tipo I;Rotina;28;24;Sim;Nao;19.00;Manha;Urina
+EX0016;22/10/2026;PARIQUERA-AÇU;Colesterol;Rotina;23;24;Nao;Nao;23.00;Tarde;Sangue
+EX0123;26/10/2026; Iguape ;Urina tipo I;Rotina;36;24;Sim;Nao;19.00;Noite;Urina
+EX0068;07/10/2026;IGUAPE;Glicemia;Urgente;2;4;Nao;Nao;27.00;Manha;Sangue
+EX0201;18/10/2026;REGISTRO;Glicemia;Rotina;32;24;Sim;Nao;15.00;Manha;Sangue
+EX0182;06/10/2026;Iguape;Hemograma;Urgente;1;4;Nao;Nao;40.00;Noite;Sangue
+EX0105;04/10/2026; Iguape ;Colesterol;Rotina;13;24;Nao;Nao;23.00;Tarde;Sangue
+EX0130;05/10/2026;Pariquera-Açu;Urina tipo I;Rotina;27;24;Sim;Nao;19.00;Noite;Urina
+EX0026;20/10/2026; Iguape ;Colesterol;Rotina;24;24;Nao;Nao;23.00;Manha;Sangue
+EX0147;25/10/2026;iguape;Triglicerideos;Rotina;10;24;Nao;Nao;24.00;Tarde;Sangue
+EX0045;05/10/2026;Registro;Hemograma;Rotina;23;24;Nao;Sim;28.00;Manha;Sangue
+EX0088;23/10/2026; Jacupiranga ;Colesterol;Rotina;1;24;Nao;Nao;23.00;Manha;Sangue
+EX0225;16/10/2026;pariquera-açu;Colesterol;Rotina;31;24;Sim;Nao;23.00;Manha;Sangue
+EX0037;26/10/2026;registro;Urina tipo I;Rotina;8;24;Nao;Nao;19.00;Noite;Urina
+EX0112;25/10/2026;Registro;Triglicerideos;Urgente;5;4;Sim;Nao;36.00;Tarde;Sangue
+EX0174;17/10/2026;jacupiranga;TSH;Rotina;18;24;Nao;Sim;38.00;Noite;Sangue
+EX0014;13/10/2026;IGUAPE;Triglicerideos;Rotina;20;24;Nao;Sim;24.00;Noite;Sangue
+EX0168;16/10/2026;Registro;Triglicerideos;Rotina;16;24;Nao;Nao;24.00;Noite;Sangue
+EX0087;09/10/2026;IGUAPE;Hemograma;Rotina;9;24;Nao;Nao;28.00;Noite;Sangue
+EX0202;07/10/2026; Iguape ;TSH;Rotina;25;24;Sim;Sim;38.00;Tarde;Sangue
+EX0235;13/10/2026; Pariquera-Açu ;Glicemia;Rotina;22;24;Nao;Nao;15.00;Tarde;Sangue
+EX0001;26/10/2026;REGISTRO;Colesterol;Urgente;5;4;Sim;Nao;35.00;Tarde;Sangue
+EX0229;19/10/2026;PARIQUERA-AÇU;Urina tipo I;Rotina;15;24;Nao;Nao;19.00;Tarde;Urina
+EX0032;10/10/2026;IGUAPE;Urina tipo I;Rotina;10;24;Nao;Nao;19.00;Noite;Urina
+EX0228;14/10/2026; Pariquera-Açu ;Colesterol;Rotina;31;24;Sim;Sim;23.00;;Sangue
+EX0062;05/10/2026; Pariquera-Açu ;Colesterol;Rotina;14;24;Nao;Nao;23.00;Noite;Sangue
+EX0008;10/10/2026;registro;Triglicerideos;Rotina;17;24;Nao;Sim;24.00;Noite;Sangue
+EX0237;19/10/2026;PARIQUERA-AÇU;TSH;Rotina;12;24;Nao;Nao;38.00;Noite;Sangue
+EX0169;20/10/2026;Jacupiranga;TSH;Rotina;6;24;Nao;Sim;38.00;Manha;Sangue
+EX0179;24/10/2026; Registro ;Triglicerideos;Rotina;22;24;Nao;Sim;24.00;Noite;Sangue
+EX0188;16/10/2026;jacupiranga;TSH;Rotina;24;24;Nao;Nao;38.00;Manha;Sangue
+EX0195;02/10/2026;JACUPIRANGA;Hemograma;Rotina;20;24;Nao;Sim;28.00;Manha;Sangue
+EX0086;07/10/2026; Registro ;Colesterol;Rotina;21;24;Nao;Nao;23.00;Manha;Sangue
+EX0071;01/10/2026;Iguape;Urina tipo I;Rotina;21;24;Nao;Nao;19.00;Tarde;Urina
+EX0220;20/10/2026;pariquera-açu;TSH;Urgente;10;4;Sim;Sim;50.00;Noite;Sangue
+EX0011;02/10/2026;JACUPIRANGA;Hemograma;Rotina;26;24;Sim;Nao;28.00;Tarde;Sangue
+EX0031;11/10/2026;JACUPIRANGA;Hemograma;Rotina;7;24;Nao;Nao;28.00;Noite;Sangue
+EX0017;02/10/2026; Jacupiranga ;Triglicerideos;Urgente;1;4;Nao;Nao;36.00;Noite;Sangue
+EX0044;10/10/2026;jacupiranga;Glicemia;Rotina;21;24;Nao;Sim;15.00;Manha;Sangue
+EX0193;27/10/2026;IGUAPE;Urina tipo I;Rotina;33;24;Sim;Nao;19.00;Noite;Urina
+EX0134;19/10/2026;Jacupiranga;TSH;Rotina;32;24;Sim;Nao;38.00;Noite;Sangue
+EX0067;08/10/2026;REGISTRO;Hemograma;Urgente;1;4;Nao;Nao;40.00;Manha;Sangue
+EX0220;20/10/2026;pariquera-açu;TSH;Urgente;10;4;Sim;Sim;50.00;Noite;Sangue
+EX0155;02/10/2026;Pariquera-Açu;Urina tipo I;Rotina;15;24;Nao;Nao;19.00;Manha;Urina
+EX0238;13/10/2026;Iguape;Hemograma;Urgente;1;4;Nao;Nao;40.00;Noite;Sangue
+EX0042;29/10/2026;jacupiranga;Urina tipo I;Urgente;7;4;Sim;Nao;31.00;Noite;Urina
+EX0240;10/10/2026; Jacupiranga ;TSH;Urgente;8;4;Sim;Nao;50.00;Noite;Sangue
+EX0137;03/10/2026;Iguape;Glicemia;Rotina;17;24;Nao;Nao;15.00;Manha;Sangue
+EX0039;02/10/2026;Iguape;Glicemia;Rotina;19;24;Nao;Nao;15.00;Manha;Sangue
+EX0140;06/10/2026;REGISTRO;Hemograma;Urgente;5;4;Sim;Sim;40.00;Tarde;Sangue
+EX0036;07/10/2026;Registro;Glicemia;Rotina;1;24;Nao;Nao;15.00;Noite;Sangue
+EX0149;01/10/2026;jacupiranga;Urina tipo I;Rotina;15;24;Nao;Nao;19.00;Tarde;Urina
+EX0199;25/10/2026; Registro ;Urina tipo I;Urgente;4;4;Nao;Nao;31.00;Noite;Urina
+EX0222;17/10/2026; Registro ;Urina tipo I;Rotina;20;24;Nao;Nao;19.00;Noite;Urina
