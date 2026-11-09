@@ -3,7 +3,8 @@ from collections import Counter, defaultdict
 import statistics
 
 def main():
-    arquivo_csv = 'Pratica_DSM6_Exames_Laboratoriais.csv'
+    # Se o arquivo estiver dentro da pasta docs:
+    arquivo_csv = 'docs/Pratica_DSM6_Exames_Laboratoriais.csv'
     
     # ==========================================
     # 1. LEITURA E PREPARAÇÃO OBRIGATÓRIA
